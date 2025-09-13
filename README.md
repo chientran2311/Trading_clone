@@ -30,13 +30,15 @@ cd Trading_clone
 
 ### 2️⃣ Tạo virtual environment
 
-```python -m venv .venv
+```bash
+python -m venv .venv
 source .venv/bin/activate    # Mac/Linux
 .venv\Scripts\activate       # Windows
 
 ### 3️⃣ Cài đặt thư viện
 
-```pip install --upgrade pip
+```bash
+pip install --upgrade pip
 pip install -r requirements.txt
 
 📊 Cách chạy dự án
