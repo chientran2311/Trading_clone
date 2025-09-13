@@ -1,0 +1,9 @@
+streamlit==1.37.0
+yfinance==0.2.37
+pandas
+matplotlib
+requests
+fastapi
+uvicorn
+stable-baselines3
+gym
